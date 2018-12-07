@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/curtisstilwell/Desktop/auth/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/curtisstilwell/Desktop/auth/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/curtisstilwell/Desktop/auth/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
